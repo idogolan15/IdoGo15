@@ -7,7 +7,6 @@
 * :octocat: All of my projects are available at <a href="https://github.com/BarOvda?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/IdoGo15" height="30" width="40" /></a>
 
 <br><br/>
-<br><br/>
 
 ## 👨‍💻 Languages and Tools
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
