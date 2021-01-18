@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20Ido%20Golan&fontSize=35&fontAlignY=32)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" width="30" height="30"/></a>
+<a href="#"><img width="100%" height="auto" left="5px" src="https://i.imgur.com/iXuL1HG.png" width="30" height="30"/></a>
 ## 📖 About me
 * 💻 Full Stack Developer
 * 🎓 Computer Science student (graduating in October 2022)
