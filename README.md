@@ -4,7 +4,7 @@
 ## 📖 About me
 * 💻 Full Stack Developer
 * 🎓 Computer Science student (graduating in October 2022)
-* :octocat: All of my projects are available at <a href="https://github.com/BarOvda?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/IdoGo15" height="30" width="40" /></a>
+* :octocat: All of my projects are available at <a href="https://github.com/IdoGo15?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/IdoGo15" height="30" width="40" /></a>
 
 <br>
 
