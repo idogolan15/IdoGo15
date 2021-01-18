@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20Ido%20Golan&fontSize=35&fontAlignY=32)
 
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.talentlyft.com%2Fen%2Fresources%2Fback-end-developer-job-description&psig=AOvVaw3ObSHtW-ZB15KC4vIJdIvF&ust=1611045549326000&source=images&cd=vfe&ved=2ahUKEwjBv9--iqXuAhUFyBQKHT-WCPgQjRx6BAgAEAc" width="30" height="30"/></a>
 
 ## 📖 About me
 * 💻 Full Stack Developer
