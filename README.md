@@ -3,7 +3,7 @@
 
 ## 📖 About me
 * 💻 Full Stack Developer
-* 🎓 Computer Science student (graduating in October 2022)
+* 🎓 2nd. year Computer Science student
 
 <br>
 
