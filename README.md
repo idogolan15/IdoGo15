@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20Ido%20Golan&fontSize=35&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Ido%20Golan&fontSize=35&fontAlignY=32)
 
 
 ## 📖 About me
 * 💻 Full Stack Developer
 * 🎓 Computer Science student (graduating in October 2022)
-* :octocat: All of my projects are available at <a href="https://github.com/IdoGo15?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/IdoGo15" height="30" width="40" /></a>
 
 <br>
 
